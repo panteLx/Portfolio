@@ -50,10 +50,7 @@ function Home2() {
             <h1>SCHREIB MIR DOCH 🐱</h1>
             <p>
               Gern per <span className="purple">Brieftaube</span> oder Mail an{" "}
-              <a
-                href="mailto://hi@sebastianstahl.net"
-                style={{ color: "white" }}
-              >
+              <a href="mailto:hi@sebastianstahl.net" style={{ color: "white" }}>
                 hi@sebastianstahl.net
               </a>{" "}
               - Ich antworte auch, versprochen!

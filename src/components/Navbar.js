@@ -60,7 +60,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="mailto://hi@sebastianstahl.net"
+                href="mailto:hi@sebastianstahl.net"
                 target="_blank"
                 rel="noreferrer"
               >
